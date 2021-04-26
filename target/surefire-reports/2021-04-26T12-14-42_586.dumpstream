@@ -1,0 +1,4 @@
+# Created at 2021-04-26T12:14:44.531
+Boot Manifest-JAR contains absolute paths in classpath 'E:\MYSTUYDY\WORKSPACE\Novartis\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
